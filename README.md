@@ -1,7 +1,8 @@
 ### Olá, mundo! Eu me chamo Gabriela Ribeiro 👋
 
 - 🔭 Full-stack em desenvolvimento...
-- 🌱 Estudando: Análise e Desenvolvimento de sistema - HTML CSS JAVASCRIPT PYTHON
+- 🌱 Estudando: Análise e Desenvolvimento de sistema
+- 💻 HTML CSS JAVASCRIPT PYTHON
 - 😄 Pronouns: ela/dela
 
 <div>
