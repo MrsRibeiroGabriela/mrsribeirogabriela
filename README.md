@@ -1,4 +1,4 @@
-### Olá, mundo! Eu me chamo Gabriela Ribeiro 👋
+### Olá, mundo! Eu me chamo Gabriela Ribeiro 🌼🌼🌼
 
 - 🔭 Full-stack em desenvolvimento...
 - 🌱 Estudando: Análise e Desenvolvimento de sistema
