@@ -28,3 +28,11 @@
   
   ![Snake animation](https://github.com/MrsRibeiroGabriela/mrsribeirogabriela/blob/output/github-contribution-grid-snake.svg)
   </div>
+  
+  <p align="center"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/MrsRibeiroGabriela/count.svg" />
+ </p>
+</p>
