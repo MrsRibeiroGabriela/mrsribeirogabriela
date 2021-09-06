@@ -1,7 +1,7 @@
 ### Olá, mundo! Eu me chamo Gabriela Ribeiro 🌼🌼🌼
 
 - 🔭 Front-end developer
-- 🌱 Technologist Degree in System Analyses and Development (undergraduate) | Graduanda em Análise e Desenvolvimento de Sistema
+- 🌱 Degree in System Analyses and Development (undergraduate) | Graduanda em Análise e Desenvolvimento de Sistema
 - 💻 HTML CSS BOOTSTRAP JAVASCRIPT PYTHON
 - 😄 Pronouns/pronomes: she/her | ela/dela 
 
