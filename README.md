@@ -1,9 +1,9 @@
 ### Olá, mundo! Eu me chamo Gabriela Ribeiro 🌼🌼🌼
 
-- 🔭 Front-end em desenvolvimento...
-- 🌱 Estudando: Análise e Desenvolvimento de sistema
-- 💻 HTML CSS JAVASCRIPT PYTHON
-- 😄 Pronouns: ela/dela
+- 🔭 Front-end developer
+- 🌱 Technologist Degree in System Analyses and Development (undergraduate) | Graduanda em Análise e Desenvolvimento de sistema
+- 💻 HTML CSS BOOTSTRAP JAVASCRIPT PYTHON
+- 😄 Pronouns: she/her | ela/dela 
 
 <div>
   <a href="https://github.com/mrsribeirogabriela">
