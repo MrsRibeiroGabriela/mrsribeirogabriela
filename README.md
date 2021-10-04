@@ -1,9 +1,29 @@
-### Olá, mundo! Eu me chamo Gabriela Ribeiro 🌼🌼🌼
+### Hello, world!
 
-- 🔭 Front-end developer
-- 🌱 Degree in System Analyses and Development (undergraduate) | Graduanda em Análise e Desenvolvimento de Sistema
-- 💻 HTML CSS BOOTSTRAP JAVASCRIPT PYTHON
-- 😄 Pronouns/pronomes: she/her | ela/dela 
+```javascript
+let gabrielaribeiro = {
+    age: 34,
+    country: 'Brazil',
+    city: 'Fortaleza, CE',
+    stack: ['HTML','CSS','Javascript','Python'],
+    hobbies: ['Books', 'Music', 'Dorama', 'Helping people']
+};
+```
+
+<h3>A little bit more about me:</h3>
+
+<p align="left">
+    🔭 I’m currently working on improving my development skills.
+</p>
+<p align="left">
+    🌱 I’m currently learning web development.
+</p>
+<p align="left">
+    💻  I enrolled in college and I am working toward a degree in System Analysis and Development.
+</p>
+<p align="left">
+    🌼 Pronouns: she/her
+</p>
 
 <div>
   <a href="https://github.com/mrsribeirogabriela">
