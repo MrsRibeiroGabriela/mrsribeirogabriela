@@ -13,7 +13,7 @@ let gabrielaribeiro = {
 <h3>A little bit more about me:</h3>
 
 <p align="left">
-    🔭 I’m currently working at Accenture as a ServiceNow Junior Developre and I keep on improving my development skills as well.
+    🔭 I’m currently working at Accenture as a ServiceNow Junior Developer and I keep on improving my development skills as well.
 </p>
 <p align="left">
     🌱 I’m currently learning ITSM development and web development.
@@ -36,7 +36,6 @@ let gabrielaribeiro = {
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
