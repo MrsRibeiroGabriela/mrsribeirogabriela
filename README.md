@@ -5,7 +5,7 @@ let gabrielaribeiro = {
     age: 34,
     country: 'Brazil',
     city: 'Fortaleza, CE',
-    stack: ['HTML','CSS','Javascript','Python'],
+    stacks: ['HTML','CSS','Javascript', 'Vue Js', 'Bootstrap'],
     hobbies: ['Books', 'Music', 'Dorama', 'Helping people']
 };
 ```
@@ -13,10 +13,10 @@ let gabrielaribeiro = {
 <h3>A little bit more about me:</h3>
 
 <p align="left">
-    🔭 I’m currently working on improving my development skills.
+    🔭 I’m currently working at Accenture as a ServiceNow Junior Developre and I keep on improving my development skills as well.
 </p>
 <p align="left">
-    🌱 I’m currently learning web development.
+    🌱 I’m currently learning ITSM development and web development.
 </p>
 <p align="left">
     💻  I enrolled in college and I am working toward a degree in System Analysis and Development.
