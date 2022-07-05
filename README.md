@@ -5,8 +5,8 @@ let gabrielaribeiro = {
     age: 34,
     country: 'Brazil',
     city: 'Fortaleza, CE',
-    stacks: ['HTML','CSS','Javascript', 'Vue Js', 'Bootstrap'],
-    hobbies: ['Books', 'Music', 'Dorama', 'Helping people']
+    stacks: ['HTML','CSS', 'SASS', 'Javascript', 'Vue Js', 'Bootstrap'],
+    hobbies: ['Books', 'Music', 'Dorama']
 };
 ```
 
