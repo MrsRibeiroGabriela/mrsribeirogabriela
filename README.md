@@ -13,10 +13,10 @@ let gabrielaribeiro = {
 <h3>A little bit more about me:</h3>
 
 <p align="left">
-    🔭 I’m currently working at Accenture as a ServiceNow Junior Developer and I keep on improving my development skills as well.
+    🔭 I’m currently working at Thoughtworks as a ServiceNow Graduate Software Engineer.
 </p>
 <p align="left">
-    🌱 I’m currently learning ITSM development and web development.
+    🌱 I’m currently learning web development.
 </p>
 <p align="left">
     💻  I enrolled in college and I am working toward a degree in System Analysis and Development.
