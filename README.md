@@ -2,18 +2,18 @@
 
 ```javascript
 let gabrielaribeiro = {
-    age: 34,
+    age: 35,
     country: 'Brazil',
     city: 'Fortaleza, CE',
-    stacks: ['HTML','CSS', 'SASS', 'Javascript', 'Vue Js', 'Bootstrap'],
-    hobbies: ['Books', 'Music', 'Dorama']
+    stacks: ['HTML','CSS', 'SASS', 'Javascript', 'Vue', 'React', 'Bootstrap', 'SASS'],
+    hobbies: ['Books', 'Music', 'K-Drama']
 };
 ```
 
 <h3>A little bit more about me:</h3>
 
 <p align="left">
-    🔭 I’m currently working at Thoughtworks as a ServiceNow Graduate Software Engineer.
+    🔭 I’m currently working at Thoughtworks as a Graduate Software Engineer.
 </p>
 <p align="left">
     🌱 I’m currently learning web development.
