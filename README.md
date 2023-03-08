@@ -13,7 +13,7 @@ let gabrielaribeiro = {
 <h3>A little bit more about me:</h3>
 
 <p align="left">
-    🔭 I’m currently working at Thoughtworks as a Graduate Software Engineer.
+    🔭 I’m currently open to work.
 </p>
 <p align="left">
     🌱 I’m currently learning web development.
