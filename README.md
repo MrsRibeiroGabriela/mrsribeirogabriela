@@ -9,20 +9,7 @@ let gabrielaribeiro = {
 };
 ```
 
-<h3>A little bit more about me:</h3>
-
-<p align="left">
-    🔭 I’m currently open to work.
-</p>
-<p align="left">
-    🌱 I’m currently learning web development.
-</p>
-<p align="left">
-    💻  I enrolled in college and I am working toward a degree in System Analysis and Development.
-</p>
-<p align="left">
-    🌼 Pronouns: she/her
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsribeirogabriela&show_icons=true&theme=transparent)
 
  <div style="display: inline_block"><br>
  <img align="center" alt="vscode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
