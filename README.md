@@ -9,7 +9,7 @@ let gabrielaribeiro = {
 };
 ```
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsribeirogabriela&theme=github_dark&hide=contribs,issues&show_icons=true&include_all_commits=true&hide_border=true" alt="Mrsribeirogabriela's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsribeirogabriela&theme=github_dark&layout=compact&hide=html,jupyter%20notebook,css&hide_border=true&langs_count=6" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsribeirogabriela&theme=github_dark&hide=contribs,issues&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="Mrsribeirogabriela's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsribeirogabriela&theme=github_dark&layout=compact&hide=html,jupyter%20notebook,css&hide_border=true&langs_count=6" /></a> |
 | ------------- | ------------- |
 
  <div style="display: inline_block"><br>
