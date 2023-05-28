@@ -2,11 +2,10 @@
 
 ```javascript
 let gabrielaribeiro = {
-    age: 35,
     country: 'Brazil',
-    city: 'Fortaleza, CE',
-    stacks: ['HTML','CSS', 'SASS', , 'Bootstrap', 'Javascript', 'Vue', 'React', 'Node JS'],
-    hobbies: ['Books', 'Music', 'K-Drama']
+    city: 'Fortaleza',
+    state: 'Ceará',
+    stacks: ['HTML','CSS', 'SASS', 'Bootstrap', 'Tailwind CSS', 'Javascript', 'Vue', 'React', 'Node JS', 'Jest', 'Cypress']
 };
 ```
 
@@ -31,8 +30,8 @@ let gabrielaribeiro = {
   <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="react" title="ReactJs" height="30" width="30" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png">
-  <img align="center" alt="node" title="NodeJs" height="30" width="30" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
+  <img align="center" alt="react" title="ReactJs" height="30" width="32" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png">
+  <img align="center" alt="node" title="NodeJs" height="30" width="27" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
   <img align="center" alt="node" title="JEST" height="30" width="30" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png">
 </div>
 
