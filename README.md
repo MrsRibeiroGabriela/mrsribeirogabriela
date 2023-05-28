@@ -5,7 +5,7 @@ let gabrielaribeiro = {
     country: 'Brazil',
     city: 'Fortaleza',
     state: 'Ceará',
-    stacks: ['HTML','CSS', 'SASS', 'Bootstrap', 'Tailwind CSS', 'Javascript', 'Vue', 'React', 'Node JS', 'Jest', 'Cypress']
+    stacks: ['HTML','CSS', 'SASS', 'Bootstrap', 'Tailwind CSS', 'Javascript', 'Vue', 'React', 'Redux', 'Node JS', 'Jest', 'Cypress']
 };
 ```
 
