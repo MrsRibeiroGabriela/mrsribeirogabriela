@@ -21,7 +21,10 @@ let gabrielaribeiro = {
   <img align="center" alt="react" title="ReactJs" height="30" width="32" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png">
   <img align="center" alt="node" title="NodeJs" height="30" width="27" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
   <img align="center" alt="node" title="JEST" height="30" width="30" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png">
-  <img align="center" alt="node" title="SN" width="50" src="https://seeklogo.com/images/S/servicenow-logo-D344FACC10-seeklogo.com.png">
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="node" title="SN" height="30" width="50" src="https://seeklogo.com/images/S/servicenow-logo-D344FACC10-seeklogo.com.png">
 </div>
 
   
