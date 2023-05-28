@@ -28,7 +28,7 @@ let gabrielaribeiro = {
  <div style="display: inline_block"><br>
  <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
  <img align="center" alt="git" title="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-plain.svg">
-  <img align="center" alt="react" title="ReactJs" height="30" width="27" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png">
+  <img align="center" alt="react" title="ReactJs" height="30" width="47" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png">
    <img align="center" alt="node" title="NodeJs" height="30" width="27" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
