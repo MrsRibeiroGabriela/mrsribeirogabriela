@@ -10,7 +10,7 @@ let gabrielaribeiro = {
 ```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsribeirogabriela&show_icons=true&theme=transparent&size_weight=0.5&count_weight=0.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsribeirogabriela&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsribeirogabriela&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
  <div style="display: inline_block"><br>
  <img align="center" alt="vscode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
