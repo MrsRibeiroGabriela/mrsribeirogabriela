@@ -9,8 +9,8 @@ let gabrielaribeiro = {
 };
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsribeirogabriela&show_icons=true&theme=dracula&size_weight=0.5&count_weight=0.5&card_width=100px)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsribeirogabriela&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsribeirogabriela&theme=github_dark&hide=contribs,issues&show_icons=true&include_all_commits=true&hide_border=true" alt="Mrsribeirogabriela's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsribeirogabriela&theme=github_dark&layout=compact&hide=html,jupyter%20notebook,css&hide_border=true&langs_count=6" /></a> |
+| ------------- | ------------- |
 
  <div style="display: inline_block"><br>
  <img align="center" alt="vscode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
