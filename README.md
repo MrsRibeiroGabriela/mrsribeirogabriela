@@ -20,7 +20,8 @@ let gabrielaribeiro = {
   <img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="react" title="ReactJs" height="30" width="32" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png">
   <img align="center" alt="node" title="NodeJs" height="30" width="27" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
-  <img align="center" alt="node" title="JEST" height="30" width="30" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png">
+  <img align="center" alt="Jest" title="JEST" height="30" width="30" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png">
+  <img align="center" alt="Figma" title="Figma" height="30" width="30" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png">
 </div>
 
 <div style="display: inline_block"><br>
