@@ -10,11 +10,6 @@
   <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="node" title="SN" height="30" width="150" src="https://seeklogo.com/images/S/servicenow-logo-D344FACC10-seeklogo.com.png">
-</div>
-
   
   ##
   
